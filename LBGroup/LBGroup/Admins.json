@@ -1,0 +1,36 @@
+{
+    "version": 0,
+    "admins": [
+        {
+            "version": 1,
+            "steamid": "76561199210780380",
+            "comment": "Sample Entry. Remove me",
+            "openNoBuildPanel": 1,
+            "noBuildZonesAddRemove": 1,
+            "noBuildZonesToggle": 1,
+            "noBuildZoneIgnoreZones": 1,
+            "openAdminPanel": 1,
+            "adminPanelListAllGroups": 1,
+            "adminPanelJoinGroup": 1,
+            "adminPanelDeleteGroup": 1,
+            "adminPanelRenameGroup": 1,
+            "adminPanelPromotePlayer": 1,
+            "adminPanelDemotePlayer": 1,
+            "adminPanelChangeGroupLevel": 1,
+            "adminPanelKickPlayer": 1,
+            "adminPanelViewSteamid": 1,
+            "adminPanelViewGroupMarkers": 1,
+            "adminPanelViewGroupPlayerPositions": 1,
+            "adminPanelViewAllTerritoryFlags": 1,
+            "flagpoleIgnoreBuildLimit": 1,
+            "flagpoleIgnoreBuildZones": 1,
+            "flagpoleCanBuildInEnemyZones": 1,
+            "mapAddGlobalMarkerPerm": 1,
+            "mapAddGlobalMarkerTemp": 1,
+            "mapRemoveGlobalMarkerPerm": 1,
+            "mapRemoveGlobalMarkerTemp": 1,
+            "canMutePlayers": 1,
+            "canChangeGroupChatColor": 1
+        }
+    ]
+}

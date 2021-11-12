@@ -1,0 +1,62 @@
+{
+    "configVersion": 1,
+    "name": "Admin",
+    "shortname": "ADm",
+    "level": 0,
+    "maxPlayers": 3,
+    "subGroupSize": 3,
+    "subGroupCount": 2,
+    "lastActivity": 1636654697,
+    "creationDate": 1636565975,
+    "markerLimit": 20,
+    "plotpoleLimit": 0,
+    "hasATMAccount": 0,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 1,
+    "chatColorR": 255,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 177214935,
+            "name": "SallysSheShed",
+            "icon": "",
+            "position": [
+                4457.2841796875,
+                342.9178771972656,
+                10446.29296875
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "steamid": "76561199210780380",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 100.0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 734156807,
+            "name": "Death: SallysSheShed",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                12147.806640625,
+                155.39727783203126,
+                12569.3828125
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561199210780380_D"
+        }
+    ]
+}
